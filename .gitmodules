@@ -1,0 +1,12 @@
+[submodule "cloud-gateway"]
+	path = cloud-gateway
+	url = https://github.com/Joseph24x7/cloud-gateway.git
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = https://github.com/Joseph24x7/EurekaServer.git
+[submodule "OrderService"]
+	path = OrderService
+	url = https://github.com/Joseph24x7/OrderService.git
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/Joseph24x7/PaymentService.git
